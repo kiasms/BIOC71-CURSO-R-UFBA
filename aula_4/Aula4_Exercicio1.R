@@ -1,6 +1,8 @@
 ##############################
 #####Exercicio Aula 4 R###########
-#Lucas Menezes Silva
+###Lucas Menezes Silva ###
+
+#Revisado
 
 #Criando graficos
 
