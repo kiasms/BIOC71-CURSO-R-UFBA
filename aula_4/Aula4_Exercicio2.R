@@ -2,6 +2,8 @@
 #####Exercicio Aula 4 R###########
 #Lucas Menezes Silva
 
+#Revisado
+
 #Editando alguns parâmetros gráficos 5.1
 
 read.csv("esaligna.csv") #lendo o arquivo csv
