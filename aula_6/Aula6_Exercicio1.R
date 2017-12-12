@@ -2,7 +2,7 @@
 ###Aula 6 exercicio 1 script###
 ###Lucas Menezes Silva#########
 
-#Revisado
+#Revisado novamente
 
 #FAZENDO VERSÕES PIORADAS DE FUNÇÕES EXISTENTES
 
