@@ -2,6 +2,8 @@
 ###Aula 6 exercicio 1 script###
 ###Lucas Menezes Silva#########
 
+#Revisado
+
 #FAZENDO VERSÕES PIORADAS DE FUNÇÕES EXISTENTES
 
 #Com a função simples
