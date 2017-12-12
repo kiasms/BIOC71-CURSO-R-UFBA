@@ -3,6 +3,9 @@
 # Vitor Passos Rios                               ####
 # Universidade Federal da Bahia                   ####
 # https://github.com/vrios/Intro-Linguagem-R/wiki#####
+
+# Lucas Menezes Silva
+
 ######################################################
 
 #diferencie a função source da função load()
