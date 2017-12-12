@@ -3,6 +3,9 @@
 # Vitor Passos Rios
 # Universidade Federal da Bahia
 # https://github.com/vrios/Intro-Linguagem-R/wiki
+
+# Lucas Menezes Silva
+
 #####################################################
 
 #quando possível, sua resposta deve ser um código do R
