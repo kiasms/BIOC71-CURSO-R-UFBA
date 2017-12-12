@@ -1,8 +1,8 @@
 ###Aula 5 R###
 ###Lucas Menezes Silva###
 
-#Revisado
 
+#Revisado novamente
 #Exercicio 1 
 
 aves.c <- read.csv2(file = "aves_cerrado.csv", row.names=1, as.is=T)
